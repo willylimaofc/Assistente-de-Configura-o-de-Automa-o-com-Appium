@@ -24,7 +24,19 @@ Execute o script:
 
      python3 setup_appium.py
 
-Após a execução:
+# Se o Python não estiver instalado, siga estas etapas e repita o comando do script:
+
+# No macOS:
+Instale o Homebrew (gerenciador de pacotes para macOS):
+
+     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+# Instale o Python via Homebrew:
+
+     brew install python
+
+
+# Após a execução:
 
 Se o script instalar o Homebrew, ele vai pedir que você recarregue o shell com o comando:
 
