@@ -3,16 +3,14 @@ Criacao de um script de assistencia de Configuração de automação com Appium 
 
 Sua intensao é facilitar uma rapida preparaçao de ambiente para testes automatizados. Dentro das ferramentas instaladas e configuradas temos:
 
-+--------------------------+
-| Ferramenta               |
-+--------------------------+
-| Homebrew                 | 
-| Xcode Command Line Tools | 
-| Node.js                  | 
-| Appium                   | 
-| Appium Doctor            | 
-| Java JDK                 | 
-+--------------------------+
+# Ferramenta               
+
+- Homebrew
+- Xcode Command Line Tools
+- Node.js
+- Appium
+- Appium Doctor
+- Java JDK
 
 Após todo o processo de configuracao e instalacao o script cria um projeto base dentro da pasta onde o arquivo do script esta alocado, facilitando para o QA o start de suas atividades.
 
