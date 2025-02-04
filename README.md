@@ -57,16 +57,16 @@ Projeto criado em: /caminho/do/projeto
 Instalando dependências...
 Dependências instaladas com sucesso!
 
-+-------------------+----------------+
-| Ferramenta        | Status         |
-+-------------------+----------------+
-| Homebrew          | ✅ Instalado   |
-| Xcode Command Line Tools | ✅ Instalado |
-| Node.js           | ✅ Instalado   |
-| Appium            | ✅ Instalado   |
-| Appium Doctor     | ✅ Instalado   |
-| Java JDK          | ✅ Instalado   |
-+-------------------+----------------+
+
+# Ferramenta - Status 
+
+- Homebrew ✅ Instalado
+- Xcode Command Line Tools ✅ Instalado
+- Node.js  ✅ Instalado
+- Appium ✅ Instalado
+- Appium Doctor ✅ Instalado
+- Java JDK ✅ Instalado 
+
 
 Seu ambiente está pronto para automação com Appium!
 Projeto básico criado e configurado com sucesso!
