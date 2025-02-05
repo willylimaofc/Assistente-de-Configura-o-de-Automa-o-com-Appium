@@ -51,7 +51,6 @@ Bem-vindo ao Assistente de Configuração de Automação com Appium!
 
 Configurando ambiente...
 
-
 Criando projeto básico de automação...
 Projeto criado em: /caminho/do/projeto
 Instalando dependências...
@@ -68,6 +67,8 @@ Dependências instaladas com sucesso!
 - Java JDK ✅ Instalado 
 
 
+# Ao final sera possivel visualizar as seguintes mensagens: 
+
 Seu ambiente está pronto para automação com Appium!
 Projeto básico criado e configurado com sucesso!
-Abrindo o projeto no IntelliJ IDEA...
+
