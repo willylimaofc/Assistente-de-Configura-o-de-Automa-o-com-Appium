@@ -48,21 +48,9 @@ Execute o comando acima ou reinicie o terminal.
 # Ao finalizar a instalação será possivel analisar o seguinte retorno via terminal.
 
 Bem-vindo ao Assistente de Configuração de Automação com Appium!
+
 Configurando ambiente...
-[bold]Verificando Homebrew...[/bold]
-[bold red]Homebrew não encontrado. Instalando...[/bold red]
-[bold green]Homebrew instalado com sucesso![/bold green]
-[bold]Por favor, recarregue o shell manualmente com o comando abaixo:[/bold]
-[bold]source ~/.zshrc[/bold]
-[bold]Ou reinicie o terminal.[/bold]
-[bold]Verificando Xcode Command Line Tools...[/bold]
-[bold green]Xcode Command Line Tools já está instalado.[/bold green]
-[bold]Configurando npm para usar um diretório local...[/bold]
-[bold green]npm configurado com sucesso![/bold green]
-[bold]Instalando node...[/bold]
-[bold]Instalando appium...[/bold]
-[bold]Instalando appium-doctor...[/bold]
-[bold green]Configuração concluída com sucesso![/bold green]
+
 
 Criando projeto básico de automação...
 Projeto criado em: /caminho/do/projeto
