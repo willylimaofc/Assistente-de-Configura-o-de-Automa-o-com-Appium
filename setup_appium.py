@@ -126,7 +126,7 @@ def install_xcode_command_line_tools():
         console.print("[bold]Após aceitar a licença, execute este script novamente.[/bold]")
         sys.exit(1)
 
-# Função para configurar o ambiente
+# Função para configurar o ambiente 
 def setup_environment():
     console.print("[bold]Configurando ambiente...[/bold]")
     
