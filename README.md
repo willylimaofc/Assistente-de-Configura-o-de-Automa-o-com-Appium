@@ -1,5 +1,5 @@
 # Assistente-de-Configura-o-de-Automa-o-com-Appium
-Criacao de um script de assistencia de Configuração de automação com Appium e montagem de primeiro projeto para QAs
+Criacao de um script de assistencia de Configuração de automação com Appium e montagem de primeiro projeto para QAs.
 
 Sua intensao é facilitar uma rapida preparaçao de ambiente para testes automatizados. Dentro das ferramentas instaladas e configuradas temos:
 
