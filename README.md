@@ -69,6 +69,6 @@ Dependências instaladas com sucesso!
 
 # Ao final sera possivel visualizar as seguintes mensagens: 
 
-Seu ambiente está pronto para automação com Appium!
-Projeto básico criado e configurado com sucesso!
+# Seu ambiente está pronto para automação com Appium!
+# Projeto básico criado e configurado com sucesso!
 
