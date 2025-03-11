@@ -11,7 +11,6 @@ Sua intensao é facilitar uma rapida preparaçao de ambiente para testes automat
 - Appium
 - Appium Doctor
 - Java JDK
-- webdrive
 
 Após todo o processo de configuracao e instalacao o script cria um projeto base dentro da pasta onde o arquivo do script esta alocado, facilitando para o QA o start de suas atividades.
 
